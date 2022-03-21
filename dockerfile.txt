@@ -33,6 +33,3 @@ VOLUME /var/run/docker.sock:/var/run/docker.sock
 LABEL ImageTitle="Centos 7"
 LABEL Version="Version 1"
 LABEL ContainerRegistry="Docker Hub"
-LABEL Repository="repository"
-LABEL Owner="email"
-LABEL BaseImageUSed="Official Centos 7"
